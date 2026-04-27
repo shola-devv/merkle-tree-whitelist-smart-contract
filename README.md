@@ -26,7 +26,7 @@ Winner selection is powered by Chainlink VRF, ensuring:
 ##  Deployment
 
 - **Network:** Sepolia Testnet  
-- **Contract Address:** `  `
+- **Contract Address:** ` 0x389aCc76bDdeE7Af4cD05b4586E84C51DAe8dc10 `
 
 ##  Key Features
 
