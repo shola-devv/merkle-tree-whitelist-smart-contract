@@ -46,5 +46,7 @@ Winner selection is powered by Chainlink VRF, ensuring:
 MIT
 
 ##  Author
-shola Emmanuel
+- shola Emmanuel
+
+
 sholaemmanuel.dev
